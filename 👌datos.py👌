@@ -1,0 +1,3 @@
+import random 
+datos = ["me gusta jugar fornite ","me gusta y se tocar el piano","vivo actualmente en estados unidos ","mi color fav es el naranja "]
+print (random.choice(datos))
